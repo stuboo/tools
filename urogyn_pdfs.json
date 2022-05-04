@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Accidental Bowel Leakage",
+    "filename": "ABL.pdf",
+    "isActive": true,
+    "description": "AUGS Fact Sheet for Accidental Bowel Leakage",
+    "updated": "2022-05-03T10:00:18 +05:00",
+    "author": "AUGS",
+    "source": "https://www.voicesforpfd.org/assets/2/6/ABL.pdf",
+    "category": [
+      "Fecal Incontinence",
+      "FI",
+      "Bowel"
+    ]
+  },
+  {
+    "title": "Botox Injections to Improve Bladder Control",
+    "filename": "Botox.pdf",
+    "isActive": true,
+    "description": "AUGS Fact Sheet for BOTOX",
+    "updated": "2022-05-03T10:00:18 +05:00",
+    "author": "AUGS",
+    "source": "https://www.voicesforpfd.org/assets/2/6/Botox.pdf",
+    "category": [
+      "OAB",
+      "BOTOX",
+      "Bladder"
+    ]
+  },
+  {
+    "title": "Colpoclesis/Vaginal Closure Surgery",
+    "filename": "Colpocleisis.pdf",
+    "isActive": true,
+    "description": "AUGS Fact Sheet for colpocleisis.",
+    "updated": "2022-05-03T10:00:18 +05:00",
+    "author": "AUGS",
+    "source": "https://www.voicesforpfd.org/assets/2/6/Colpocleisis.pdf",
+    "category": [
+      "Prolapse",
+      "Surgery",
+      "POP"
+    ]
+  },
+  {
+    "title": "Constipation",
+    "filename": "Constipation.pdf",
+    "isActive": true,
+    "description": "AUGS Fact Sheet for constipation.",
+    "updated": "2022-05-03T10:00:18 +05:00",
+    "author": "AUGS",
+    "source": "https://www.voicesforpfd.org/assets/2/6/Constipation.pdf",
+    "category": [
+      "Constipation",
+      "Bowel"
+    ]
+  }
+]
