@@ -427,7 +427,7 @@
 	"author": "AUGS",
 	"thumbnail": "https://www.voicesforpfd.org/assets/2/6/MainFCKEditorDimension/Vaginal_Pessaries_Page_1.jpg",
 	"updated": "2022-05-06 12:25:03",
-	"source": "https://www.voicesforpfd.orghttps://www.voicesforpfd.org/assets/2/6/Vaginal_Pessaries.pdf"
+	"source": "https://www.voicesforpfd.org/assets/2/6/Vaginal_Pessaries.pdf"
 }, {
 	"title": "Vaginal Pessaries",
 	"filename": "Vag_Pessaries_Spanish.pdf",
@@ -4644,7 +4644,8 @@
     "filename": "pfpt.pdf",
     "language": "English",
     "category":["prolapse", "POP", "therapy", "physical", "pfpt", "incontinence", "OAB", "SUI", "non-surgical", "first line", "ABL", "exercises", "interstitial cystitis", "bladder", "FI", "IC", "frequency", "pelvic floor", "dyspareunia"],
-    "author": "Handout on Pelvic Floor Physical Therapy in English",
+    "description": "Handout on Pelvic Floor Physical Therapy in English",
+	"author": "Internal",
     "thumbnail": "https://tools.ryanstewart.com/uploads/internal/pfpt.png",
     "updated": "2023-03-06 00:00:00",
     "source": "https://tools.ryanstewart.com/uploads/internal/pfpt.pdf"
