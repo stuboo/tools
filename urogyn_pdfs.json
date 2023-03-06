@@ -4643,7 +4643,7 @@
     "title": "Pelvic Floor Physical Therapy",
     "filename": "pfpt.pdf",
     "language": "English",
-    "category":["prolapse", "POP", "therapy", "physical", "pfpt", "incontinence", "OAB", "SUI", "non-surgical", "first line", "ABL", "exercises", "interstitial cystitis", "bladder", "FI", "IC", "frequency", "pelvic floor", "dyspareunia"],
+    "category":["POP", "therapy", "physical", "pfpt", "non-surgical", "first line", "dyspareunia"],
     "description": "Handout on Pelvic Floor Physical Therapy in English",
 	"author": "Internal",
     "thumbnail": "https://tools.ryanstewart.com/uploads/internal/pfpt.png",
