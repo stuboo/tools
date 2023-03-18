@@ -4649,5 +4649,28 @@
     "thumbnail": "https://tools.ryanstewart.com/uploads/internal/pfpt.png",
     "updated": "2023-03-06 00:00:00",
     "source": "https://tools.ryanstewart.com/uploads/internal/pfpt.pdf"
+  },
+  {
+	  "title": "Gemtesa (vibegron)",
+	  "filename": "vibegron.pdf",
+	  "language": "English",
+	  "category": ["OAB", "bladder", "medications", "vibegron"],
+	  "description": "Patient Education for Gemtesa (vibegron)",
+	  "author": "Urovant",
+	  "thumbnail": "https://tools.ryanstewart.com/uploads/internal/vibegron.png",
+	  "updated": "2023-03-18 00:00:00",
+	  "source": "https://tools.ryanstewart.com/uploads/internal/vibegron.pdf"
+  },
+  {
+	  "title": "Myrbetriq (mirabegron)",
+	  "filename": "mirabegron.pdf",
+	  "language": "English",
+	  "category": ["OAB", "bladder", "medications", "mirabegron"],
+	  "description": "Patient Education for Myrbetriq (mirabegron)",
+	  "author": "Astellas",
+	  "thumbnail": "https://tools.ryanstewart.com/uploads/internal/mirabegron.png",
+	  "updated": "2023-03-18 00:00:00",
+	  "source": "https://tools.ryanstewart.com/uploads/internal/mirabegron.pdf"
+	  
   }
 ]
