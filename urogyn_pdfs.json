@@ -4672,5 +4672,17 @@
 	  "updated": "2023-03-18 00:00:00",
 	  "source": "https://tools.ryanstewart.com/uploads/internal/mirabegron.pdf"
 	  
+  },
+  {
+	  "title": "Urodynamics at IU Health",
+	  "filename": "urodynamics.pdf",
+	  "language": "English",
+	  "category": ["OAB", "bladder", "incontinence", "urodynamic", "uds", "testing", "diagnostic", "advanced"],
+	  "description": "Preparing for Urodynamic Testing",
+	  "author": "IU Health Urogynecology",
+	  "thumbnail": "https://tools.ryanstewart.com/uploads/internal/urodynamics.png",
+	  "updated": "2023-04-06 00:00:00",
+	  "source": "https://tools.ryanstewart.com/uploads/internal/urodynamics.pdf"
+	  
   }
 ]
