@@ -4690,7 +4690,7 @@
 	  "filename": "BladderRetrainingTips-9a6kj0.pdf",
 	  "language": "English",
 	  "category": ["OAB", "bladder", "drills", "training", "first"],
-	  "description": "Bladder Retraining",
+	  "description": "Bladder retraining hints and tips from the NAFC",
 	  "author": "NAFC",
 	  "thumbnail": "https://tools.ryanstewart.com/uploads/nafc/OAB-Bladder-Retraining-Thumbnail.png",
 	  "updated": "2023-04-07 00:00:00",
@@ -4702,7 +4702,7 @@
 	  "filename": "BladderDiary_3_NAFC.pdf",
 	  "language": "English",
 	  "category": ["OAB", "incontinence", "sui", "uui", "nocturia", "bladder", "testing", "diary"],
-	  "description": "Bladder Diary",
+	  "description": "3 Day Bladder Diary from the NAFC",
 	  "author": "NAFC",
 	  "thumbnail": "https://tools.ryanstewart.com/uploads/nafc/bladder-diary.png",
 	  "updated": "2023-04-07 00:00:00",
@@ -4714,11 +4714,120 @@
 	  "filename": "NAFCBladderIrritants-bggyhv.pdf",
 	  "language": "English",
 	  "category": ["OAB", "bladder", "incontinence", "diet", "training", "first", "irritants"],
-	  "description": "Bladder Irritants",
+	  "description": "Handout on bladder irritants from the NAFC",
 	  "author": "NAFC",
 	  "thumbnail": "https://tools.ryanstewart.com/uploads/nafc/bladder-irritants.jpg",
 	  "updated": "2023-04-07 00:00:00",
 	  "source": "https://tools.ryanstewart.com/uploads/nafc/NAFCBladderIrritants-bggyhv.pdf"
 	  
   }
+  {
+	  "title": "Topical Vaginal Estrogen",
+	  "filename": "topical_estrogen_aua_en.pdf",
+	  "language": "English",
+	  "category": ["OAB", "GSM", "vaginal", "estrogen", "estradiol", "topical", "treatment"],
+	  "description": "Handout on topical vaginal estrogen from the AUA",
+	  "author": "AUA",
+	  "thumbnail": "https://tools.ryanstewart.com/uploads/aua/topical_estrogen_aua_en.png",
+	  "updated": "2023-04-07 00:00:00",
+	  "source": "https://tools.ryanstewart.com/uploads/aua/topical_estrogen_aua_en.pdf"
+	  
+  },
+  {
+	  "title": "Nocturia",
+	  "filename": "nocturia_aua_en.pdf",
+	  "language": "English",
+	  "category": ["OAB", "incontinence", "sui", "uui", "nocturia", "bladder", "treatment"],
+	  "description": "Handout on nocturia from the AUA",
+	  "author": "AUA",
+	  "thumbnail": "https://tools.ryanstewart.com/uploads/aua/nocturia_aua_en.png",
+	  "updated": "2023-04-07 00:00:00",
+	  "source": "https://tools.ryanstewart.com/uploads/aua/nocturia_aua_en.pdf"
+	  
+  },
+  {
+	  "title": "Hematuria",
+	  "filename": "hematuria_aua_en.pdf",
+	  "language": "English",
+	  "category": ["hematuria", "blood", "urine", "bladder", "testing"],
+	  "description": "Handout on hematuria from the AUA",
+	  "author": "AUA",
+	  "thumbnail": "https://tools.ryanstewart.com/uploads/aua/hematuria_aua_en.png",
+	  "updated": "2023-04-07 00:00:00",
+	  "source": "https://tools.ryanstewart.com/uploads/aua/hematuria_aua_en.pdf"
+	  
+  },
+  {
+	  "title": "Constipation & Urine Control",
+	  "filename": "constipation_urine_control_aua_en.pdf",
+	  "language": "English",
+	  "category": ["OAB", "incontinence", "sui", "uui", "nocturia", "bladder", "constipation", "treatment"],
+	  "description": "Handout on constipation and urine control from the AUA",
+	  "author": "AUA",
+	  "thumbnail": "https://tools.ryanstewart.com/uploads/aua/constipation_urine_control_aua_en.png",
+	  "updated": "2023-04-07 00:00:00",
+	  "source": "https://tools.ryanstewart.com/uploads/aua/constipation_urine_control_aua_en.pdf"
+	  
+  },
+  {
+	  "title": "3-Day Bladder Diary",
+	  "filename": "bladder_diary_3d_aua_en.pdf",
+	  "language": "English",
+	  "category": ["OAB", "incontinence", "sui", "uui", "nocturia", "bladder", "testing", "diary"],
+	  "description": "3-day bladder diary with instructions from the AUA",
+	  "author": "AUA",
+	  "thumbnail": "https://tools.ryanstewart.com/uploads/aua/bladder_diary_3d_aua_en.png",
+	  "updated": "2023-04-07 00:00:00",
+	  "source": "https://tools.ryanstewart.com/uploads/aua/bladder_diary_3d_aua_en.pdf"
+	  
+  },
+  {
+	  "title": "Recurrent UTI Care Pathway",
+	  "filename": "ruti_pathway.pdf",
+	  "language": "English",
+	  "category": ["ruti", "uti", "pathway", "care", "treatment"],
+	  "description": "Recurrent UTI care pathway",
+	  "author": "Internal",
+	  "thumbnail": "https://tools.ryanstewart.com/uploads/internal/ruti_pathway.png",
+	  "updated": "2023-04-07 00:00:00",
+	  "source": "https://tools.ryanstewart.com/uploads/internal/ruti_pathway.pdf"
+	  
+  },
+  {
+	  "title": "Preoperative Counseling",
+	  "filename": "preop_counseling_v4.pdf",
+	  "language": "English",
+	  "category": ["preop", "consent", "counseling"],
+	  "description": "Preop counsling worksheet",
+	  "author": "Internal",
+	  "thumbnail": "https://tools.ryanstewart.com/uploads/internal/preop_counseling_v4.png",
+	  "updated": "2023-04-07 00:00:00",
+	  "source": "https://tools.ryanstewart.com/uploads/internal/preop_counseling_v4.pdf"
+	  
+  },
+  {
+	  "title": "Pelvic Organ Prolapse Care Pathway",
+	  "filename": "pop_pathway.pdf",
+	  "language": "English",
+	  "category": ["pop", "prolapse", "pathway", "care", "treatment"],
+	  "description": "Pelvic organ prolapse (POP) care pathway",
+	  "author": "Internal",
+	  "thumbnail": "https://tools.ryanstewart.com/uploads/internal/pop_pathway.png",
+	  "updated": "2023-04-07 00:00:00",
+	  "source": "https://tools.ryanstewart.com/uploads/internal/pop_pathway.pdf"
+	  
+  },
+  {
+	  "title": "Bladder Care Pathway",
+	  "filename": "bladder_pathway.pdf",
+	  "language": "English",
+	  "category": ["OAB", "incontinence", "sui", "uui", "nocturia", "bladder", "care", "pathway", "treatment"],
+	  "description": "Bladder care pathway",
+	  "author": "Internal",
+	  "thumbnail": "https://tools.ryanstewart.com/uploads/internal/bladder_pathway.png",
+	  "updated": "2023-04-07 00:00:00",
+	  "source": "https://tools.ryanstewart.com/uploads/internal/bladder_pathway.pdf"
+	  
+  }
+
 ]
